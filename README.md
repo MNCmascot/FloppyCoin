@@ -5,3 +5,5 @@ Floppy Coin is a game created using pygame. You are a coin, and your objective i
 Try to get some of the powerups!
 
 To play the game, make sure you have all the files, and then run the python code.
+
+Don't forget to install pygame.
